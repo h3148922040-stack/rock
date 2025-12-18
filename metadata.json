@@ -1,0 +1,7 @@
+{
+  "name": "小小钟表匠：探秘时钟内部",
+  "description": "一个专为儿童设计的互动式时钟内部结构学习平台，通过生动的齿轮动画和AI辅助讲解，深入浅出地展示机械钟表的工作原理。",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
